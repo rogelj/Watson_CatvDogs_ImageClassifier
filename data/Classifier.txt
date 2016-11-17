@@ -1,0 +1,8 @@
+Image_Id,Image_Name,Score,Class
+0,./data/mypets.zip/five.jpg,1,dogs
+1,./data/mypets.zip/four.jpg,0.554423,cats
+2,./data/mypets.zip/one.jpg,0.573919,cats
+3,./data/mypets.zip/seven.jpg,1,dogs
+4,./data/mypets.zip/six.jpg,1,dogs
+5,./data/mypets.zip/three.jpg,1,dogs
+6,./data/mypets.zip/two.jpg,0.541283,cats
